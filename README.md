@@ -7,4 +7,4 @@
 
 ### Connect with Me:
 
-[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
+[<img alt="alt_text" width="40px" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />](https://www.google.com/)
