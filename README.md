@@ -5,6 +5,10 @@
 - 🎓 Currently pursuing B-Tech at IIIT Jabalpur.
 
 
+
+[<img alt="alt_text" width="40px" src="https://user-images.githubusercontent.com/56394186/195102261-21cce15d-e1b9-405f-936c-12b4cbddf5a6.png" />](https://www.credly.com/badges/e632affe-f6a4-4573-849a-e00c667b8f05?source=linked_in_profile)
+
+
 ### Coding and CTF Profile:
 
 [<img alt="alt_text" width="40px" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />](https://leetcode.com/BT-7274/) &nbsp;&nbsp;&nbsp;&nbsp;   [<img alt="alt_text" width="40px" src="https://www.svgrepo.com/show/331423/hack-the-box.svg" />](https://app.hackthebox.com/profile/279478)
