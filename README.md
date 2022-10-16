@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Ashwin Kumar
 - 👀 I’m interested in Software Development and Information Security.
-- 🎓 Currently pursuing B-Tech at IIIT Jabalpur.
+- 🎓 Currently pursuing B-Tech at [https://www.iiitdmj.ac.in](IIIT Jabalpur).
 
 
 
